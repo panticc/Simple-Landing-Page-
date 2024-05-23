@@ -5,42 +5,7 @@ body {
   margin: 0;
   box-sizing: border-box;
 }
-/*
-@media only screen and (max-width: 600px) {
-  .stroke {
-    display: none;
-  }
 
-  .main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-
-  .heroimage {
-    margin-left: 80px;
-  }
-}
-
-@media only screen and (min-width: min) {
-  .stroke ul li {
-    font-size: 10px;
-    padding: 5px;
-  }
-
-  .login,
-  .signup {
-    background-color: #e9dcff;
-    padding: 2px 11px 2px 11px;
-    border-radius: 5px;
-    font-family: Poppins;
-    font-size: 15px;
-    font-weight: 500;
-    cursor: pointer;
-  }
-}
-*/
 a {
   color: #fff;
   text-decoration: none;
